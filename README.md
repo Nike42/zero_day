@@ -1,1 +1,1 @@
-*My first vagrant task*
+This is ubuntu task
